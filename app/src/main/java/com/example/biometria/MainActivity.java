@@ -6,7 +6,6 @@ import android.provider.Settings.Secure;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -86,7 +85,6 @@ public class MainActivity extends AppCompatActivity {
                         authlabel.setText("Erro : \n" + ex);
                     }
                 }
-
             }
 
 

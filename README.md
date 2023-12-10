@@ -14,7 +14,7 @@ Biometria is an Android app that uses biometric authentication to send an encryp
 On app startup:
 
 - Enter server IP and port number
-- Enter authentication code (optional)
+- Enter authentication code
 - Click authenticate button to trigger biometric prompt
 - Scan fingerprint to authenticate
 
